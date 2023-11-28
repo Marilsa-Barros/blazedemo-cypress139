@@ -70,7 +70,6 @@ describe('Busca por voos', () => {
       .eq(0)
       .click()
 
-
     }); // fim do it
   }) // fim do arry   
 
